@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111407868693",
+    "firebase_url": "https://gsign-afe50.firebaseio.com",
+    "project_id": "gsign-afe50",
+    "storage_bucket": "gsign-afe50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111407868693:android:7651080f12150ce4cd971c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_simple_slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111407868693-9r85nucne526bboeu7qqcttn3s57o3s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_simple_slider",
+            "certificate_hash": "b0acd94d8364e2c15d5670e7601a6a709866c1a0"
+          }
+        },
+        {
+          "client_id": "111407868693-v4rlgmlv4ckv5un1u8d8rkisl4tqon1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYv5aZF6QJxwVcsHnf3acESdYa4Hzj5Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111407868693-v4rlgmlv4ckv5un1u8d8rkisl4tqon1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
